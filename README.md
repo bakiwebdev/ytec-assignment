@@ -4,9 +4,16 @@
 
 # Table Tennis Score Tracker
 
-![Table Tennis Score Tracker](./screenshot.png)
+A customer wants a site where they can track their table tennis scores. The requirements are as follows:
 
-A simple web application that allows you to track table tennis scores between two players. This project was developed to meet the requirements of a customer who wanted a convenient way to keep score during table tennis matches.
+    Create a webpage that displays two player names along with their ping pong scores.
+    Implement plus and minus buttons to allow correction of player scores.
+    Declare a winner when one player reaches 21 points with a 2-point advantage.
+    Handle the special case when the score reaches 20-20, where the winning point becomes 22.
+
+## Project Details
+
+This project aims to fulfill the requirements of the customer by providing a user-friendly web application for tracking table tennis scores. The project utilizes the following technologies and follows specific guidelines:
 
 ## Features
 
@@ -17,7 +24,8 @@ A simple web application that allows you to track table tennis scores between tw
 
 ## Technologies Used
 
-- React
+- Next JS -> React JS
+- Tailwind CSS
 - Functional Components
 
 ## Installation
